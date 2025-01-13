@@ -1,5 +1,5 @@
 
-# Coding 2 | MUST 4707
+# Coding 3 | MUST 4707
 
 ## JavaScript Class Creation: MIDIengine
 
